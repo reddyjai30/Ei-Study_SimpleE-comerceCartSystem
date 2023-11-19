@@ -33,6 +33,9 @@ Ensure all the .py files (main.py, product.py, discount_strategy.py, cart.py, ui
 - **Execute the Program**: Run the following command
   ```bash
   python3 main.py
+  OR
+  python main.py
+  ```
   
 ------  
 
