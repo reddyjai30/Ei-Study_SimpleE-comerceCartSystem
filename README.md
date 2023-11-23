@@ -409,6 +409,6 @@ Happy Shopping!!!!
 
 
 ## Code Walkthrough and SOLID Principles
-- **Code Walkthrough**: The structured and modular design of the code makes it easier for a candidate to walk through and explain the architectural decisions and design patterns used.
+- **Code Walkthrough**: The structured and modular design of the code makes it easier to walk through and explain the architectural decisions and design patterns used.
 
 - **SOLID Principles**: The program largely adheres to SOLID principles, with clear examples of single responsibility, open/closed, and `Liskov` substitution principles through its class design and pattern usage.
